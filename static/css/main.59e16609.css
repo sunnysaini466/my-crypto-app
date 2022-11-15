@@ -1,0 +1,2 @@
+.loading{align-items:center;display:flex;flex-direction:column;height:80vh;justify-content:center;width:100%}.loading>p{font:400 2rem sans-sarif;margin:1rem}.loading>div{-webkit-animation:rotation 1s ease-in-out infinite;animation:rotation 1s ease-in-out infinite;border-bottom:4px solid #5e0101;border-radius:50%;height:300px;width:300px}@-webkit-keyframes rotation{to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes rotation{to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}
+/*# sourceMappingURL=main.59e16609.css.map*/
